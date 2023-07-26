@@ -116,7 +116,7 @@ else:
 
 ```
 ## Sample Input and Output
-![output](/Screenshot%202023-07-25%20145609.png)
+![output](/Screenshot%202023-07-26%20080752.png)
 ![output](/Screenshot%202023-07-26%20080752.png)
 ![output](/Screenshot%202023-07-26%20080806.png)
 ## output
